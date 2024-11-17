@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(./asset/heartbeat_background_ultra_hd.jpg);
+    background-size: cover;
+}
+
+#heading {
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
