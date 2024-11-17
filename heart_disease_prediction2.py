@@ -19,7 +19,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #Loading the dataset
-data=pd.read_csv('/content/drive/MyDrive/heart disease prediction using ml-data.csv')
+data=pd.read_csv('heart_disease_prediction_using_ml-data.csv')
 
 data.head()
 
