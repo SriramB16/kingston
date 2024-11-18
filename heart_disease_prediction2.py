@@ -18,6 +18,8 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
+
+
 #Loading the dataset
 data=pd.read_csv('heart_disease_prediction_using_ml-data.csv')
 
